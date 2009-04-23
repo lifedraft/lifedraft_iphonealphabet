@@ -1,0 +1,9 @@
+h1. What do you mean with iPhone alphabet?
+
+Well do you see this:
+
+!http://images.apple.com/iphone/features/images/supp_phone20081210.jpg!
+
+You know what happens when you scroll down or up?
+
+Yes, with this jQuery plugin that is possible. This is intuitive to use and very easy to build in. So, it intergrates slightly in your application!
