@@ -1,0 +1,85 @@
+body {
+  font: 20px/43px "Lucida Grande", "Lucida Sans Unicode";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+ol#js {
+  list-style: none;
+  margin: 0 0 0 0;
+  padding: 0;
+  position: relative;
+}
+
+#js li a {
+  display: block;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+#js a {
+  padding-left: 10px;
+}
+
+table#js {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#alphabet-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  top: 10px;
+  right: 10px;
+  position: fixed;
+  font-size: 12px;
+  line-height: 1em;
+  z-index: 1000;
+  overflow: visible;
+}
+
+
+#alphabet-list a {
+  display: block;
+  color: #6a737d;
+  width: 1em;
+  text-align: center;
+  line-height: 1em;
+}
+
+.alphabet-letter {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  line-height: 23px;
+  height: 23px;
+}
+
+.alphabet-letter span {
+  display: block;
+  background: url("jquery.lifedraft_iphonealphabet.png") repeat-x;
+  width: 100%;  
+}
+
+.alphabet-letter span strong {
+  padding-left: 10px;
+}
+
+#addresses {
+  position: relative;
+}
+
+p {
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
